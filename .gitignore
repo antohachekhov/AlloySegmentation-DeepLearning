@@ -1,5 +1,7 @@
 venv_clean
 models
+
 /FunctionsDistance.py
 /Line.py
 /MeasurementOnBinaryImage.py
+dataset.zip

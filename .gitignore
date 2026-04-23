@@ -1,5 +1,6 @@
 venv_clean
 models
+.idea
 
 /FunctionsDistance.py
 /Line.py
